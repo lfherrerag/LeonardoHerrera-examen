@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LeonardoHerrera-examen</string>
+    <string name="Usuario">Ingresa Usuario</string>
+    <string name="Pass">Ingresa Password</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Continuar">Continuar</string>
+    <string name="Nombre">Ingrese su Nombre</string>
+    <string name="Monto">Ingrese Monto Inicial</string>
+    <string name="Tit">Encuesta al Alumno</string>
+    <string name="pre1">¿Por qué eligió este centro?</string>
+    <string name="pre2">¿Qué deportes practica?</string>
+    <string name="pre3">¿Quieres aprender un idioma que no sea inglés?</string>
+    <string name="ck1">Fútlbol</string>
+    <string name="ck2">Basketball</string>
+    <string name="ck3">Otros</string>
+    <string name="rb1">Si</string>
+    <string name="rb2">No</string>
+    <string name="encuesta">Resumen Encuesta</string>
+
+
+
+</resources>
